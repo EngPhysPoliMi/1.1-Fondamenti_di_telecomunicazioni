@@ -1,6 +1,6 @@
-# 1.1-Fondamenti_di_telecomunicazioni
+# 1.1 - Fondamenti di Telecomunicazioni
 
-Repository of "Fondamenti di telecomunicazioni"
+Repository for "Fondamenti di telecomunicazioni"
 
 
 ## Use instructions
